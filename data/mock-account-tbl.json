@@ -1,0 +1,30 @@
+{
+    "justingwapo": {
+        "id": "ad9e398c-261d-5fc5-9421-2ca0f212970d",
+        "fullName": "Justin Sala",
+        "hash": "$2b$12$dRhsnm5eLiwlRQxHqObyX.yNDLROw093s4YxcX0/yoyNozmT51.8C",
+        "userLevel": 3,
+        "createdAt": 1745308616
+    },
+    "shino": {
+        "id": "0aaaa939-922c-5e27-8bb7-416449b644b0",
+        "fullName": "Ark Jeremy Cabras",
+        "hash": "$2b$12$6Vc2wrlvrapv/rgWfqdmpu2V4WbQKC2DIhw44auuyQDoeAxWUyXKq",
+        "userLevel": 3,
+        "createdAt": 1745309185
+    },
+    "mitsu": {
+        "id": "3b2c8ad9-4798-533d-bfbf-dfee9d67bb14",
+        "fullName": "Milchzedek Cabales",
+        "hash": "$2b$12$11mAixApJ.r6oq6nJa8ly.MyWqlOLJAEzQRVXexx/LNwZHKYmH3jm",
+        "userLevel": 1,
+        "createdAt": 1745309297
+    },
+    "sleepyotter": {
+        "id": "d0d32b28-b5e5-52b8-9ab9-727b3dc409bd",
+        "fullName": "Marylle Laguna",
+        "hash": "$2b$12$ODnxu0wfk8YMiNIqGxdSge7xbXmVWIs/GsxTjuwC6jQLmZ34qgECu",
+        "userLevel": 0,
+        "createdAt": 1745309361
+    }
+}
